@@ -1,6 +1,6 @@
 # Jonistagram
 
-This is an Instagram clone with a custom Parse backend that allows a user to post photos, view a global photos feed, and add comments!
+**Jonistagram** is an Instagram clone with a custom Parse backend that allows a user to post photos, view a global photos feed, and add comments!
 
 ![Instagram Clone](https://user-images.githubusercontent.com/89917595/217654521-aa5235c9-9493-4548-849b-e87c521be910.png)
 
